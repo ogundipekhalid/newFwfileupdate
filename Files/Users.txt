@@ -1,0 +1,3 @@
+{"FirstName":"Olaniyi","LastName":"Wadood","Dob":"2000-11-11T00:00:00","Wallet":257000,"Email":"wad@gmail.com","Password":"1234","Role":"ADMIN","Id":"33569"}
+{"FirstName":"Olaniyi","LastName":"Warith","Dob":"2000-11-11T00:00:00","Wallet":0,"Email":"warith@gmail.com","Password":"1234","Role":"ADMIN","Id":"fefa9"}
+{"FirstName":"Olawale","LastName":"Jonathan","Dob":"2005-02-12T00:00:00","Wallet":4743000,"Email":"jona@gmail.com","Password":"1234","Role":"CUSTOMER","Id":"aca11"}

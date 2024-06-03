@@ -1,0 +1,3 @@
+{"Name":"OLANIYI HOTEL","HasRoomService":false,"AdminId":"de0ba","HotelStatus":2,"Ratings":3,"EarlyCheckOutFee":2000,"Id":"b54f3"}
+{"Name":"WARITH HOTEL","HasRoomService":false,"AdminId":"2c6e2","HotelStatus":2,"Ratings":0,"EarlyCheckOutFee":4000,"Id":"9dd66"}
+{"Name":"WARITHA HOTEL","HasRoomService":false,"AdminId":"de0ba","HotelStatus":2,"Ratings":0,"EarlyCheckOutFee":222,"Id":"39ed8"}

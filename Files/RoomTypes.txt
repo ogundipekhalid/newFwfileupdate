@@ -1,0 +1,8 @@
+{"HotelId":"b54f3","Name":"Suite","AmountOfRooms":3,"Price":10000,"Status":1,"Id":"1e696"}
+{"HotelId":"b54f3","Name":"Single","AmountOfRooms":3,"Price":5000,"Status":1,"Id":"283dd"}
+{"HotelId":"b54f3","Name":"Double","AmountOfRooms":3,"Price":7000,"Status":2,"Id":"a566d"}
+{"HotelId":"9dd66","Name":"Suite","AmountOfRooms":4,"Price":4000,"Status":2,"Id":"21881"}
+{"HotelId":"9dd66","Name":"Single","AmountOfRooms":3,"Price":6000,"Status":2,"Id":"c7aac"}
+{"HotelId":"39ed8","Name":"Suite","AmountOfRooms":2,"Price":8000,"Status":2,"Id":"fa3e3"}
+{"HotelId":"39ed8","Name":"Single","AmountOfRooms":2,"Price":7000,"Status":2,"Id":"039ad"}
+{"HotelId":"39ed8","Name":"Double","AmountOfRooms":2,"Price":6000,"Status":2,"Id":"a6062"}
